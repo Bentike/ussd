@@ -1,10 +1,5 @@
+alert("Welcome to Second Bank");
 let ussdCode = prompt("Enter ussd Code");
-
-if(ussdCode !== defaultCode){
-    alert("Invalid ussd code");
-}else{
-    alert("Welcome to Second Bank");
-}
 
 let option = prompt("what do you want to do \n 1. Tranfers \n 2. Airtime \n 3. Balance");
 
