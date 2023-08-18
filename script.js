@@ -37,3 +37,6 @@ if(option === "2"){
     let confirmPin = prompt("Confirm your pin to continue");
     alert(`You have succesfully purchased #${amount} ${network} airtime for ${number}`);
 }
+
+// CHECK BALANCE
+option === "3" ? alert("Your account balance is #10,000") : "";
