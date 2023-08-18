@@ -1,5 +1,3 @@
-let defaultCode = "*223#";
-
 let ussdCode = prompt("Enter ussd Code");
 
 if(ussdCode !== defaultCode){
